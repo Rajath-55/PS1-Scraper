@@ -16,3 +16,5 @@ python3 ps1.py
 ```
 
 This generates the csv file in the same folder.
+
+### NOTE: (The last three columns are dummy data as of now, I might tweak the code to actually generate those as well later its a pain)

@@ -72,7 +72,7 @@ def login(username, password):
             name += splitted[i]
             name += " "
         if check != 0:
-            data.append([loc, name, station_type, "Summer 2021", "None", "A3, A7"])
+            data.append([loc, name, station_type, "Summer 2021", "None", "1", "A7,A8"])
 
     for i in range(1, len(data)):
         new_data = [i] + data[i]
