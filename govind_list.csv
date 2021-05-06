@@ -1,0 +1,1496 @@
+,Rank,Station ID,Company Name,Location,Domain,Branch Preferences,Facilities,Projects
+29,1,2666,Happiest Minds Technologies,Bangalore,IT,Any,"AccomAddressforGirls: Not Applicable
+StartTime:  9:00AM
+Stationary: -
+SubsidizedLunch: -
+Travel: -
+Weekdays: 
+AccomAddressforBoys: Not Applicable
+TillTime:  5:00PM
+Accomodation: Not Applicable
+ToOffice: -
+FieldTA: -
+OtherInfo: -
+OnOffice: -
+StationAddress: Happiest Minds, Bangalore
+StationFacilitiesId: 9247
+Stipend: 0
+ContactDetailsForBoys: 
+ContactDetailsForGirls: 
+Status: Active
+Medical: -
+StipendForPG: 0
+RemarkforAccommodation: Not Applicable
+FacultyId: 0
+CompanyId: 2393
+FieldDA: -
+","Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 22
+Min CGPA: 0
+Max CGPA: 0
+
+"
+70,2,5600,Swiggy - Software Development,Bangalore,IT,Any,Unavailable,"Project: 0
+Title: Software Dev Engineers
+Description: -
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+7,3,5955,CEERI Pilani - App/AR/VR,Pilani,Electronics,"A3 , A7",Unavailable,"Project: 0
+Title: &Double;AR-VR Virtual Labs. - Implementation of RISC-V based Systems on FPGAs &Double;
+Description: 
+-
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+10,4,5928,CEERI Pilani - Machine Learning/DSP/AI,Pilani,Electronics,"A3 , A7 , AA",Unavailable,"Project: 0
+Title: &Double;Advanced Signal Processing for  Biomedical Signals Deep Learning and computer vision based video analytics&Double;
+Description: -
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Development of an area Specific AL based automated system to predict quality and diseases of apples and to suggest the treatment method before packaging
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: Resource Constrained AI (Optimization of deep learning algorithms for real time embedded implementation)
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 3
+Title: Resource Constrained AI (CapsNet for Computer-vision applications)
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 4
+Title: Resource Constrained AI (Recognition of Anomalous activities in Surveillance Cameras)
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+19,5,3589,CSIR-Institute of Genomics & Integrative Biology,New delhi,Health Care,"A7 , Any , B1","ContactDetailsForBoys: 
+TillTime:  6:00PM
+Medical: -
+FieldTA: -
+Weekdays: 
+StationFacilitiesId: 9242
+RemarkforAccommodation: Not Applicable
+CompanyId: 3306
+OnOffice: -
+StationAddress: South Campus, Mathura Road,
+Opp: Sukhdev Vihar Bus Depot
+New Delhi 110025
+
+Stipend: 0
+StipendForPG: 0
+AccomAddressforGirls: Not Applicable
+FacultyId: 0
+Status: Active
+ToOffice: -
+OtherInfo: -
+ContactDetailsForGirls: 
+AccomAddressforBoys: Not Applicable
+FieldDA: -
+Stationary: -
+SubsidizedLunch: -
+Travel: -
+StartTime:  9:00AM
+Accomodation: Not Applicable
+","Project: 0
+Title: Pathogen Genomics
+Description: Any specific courses that student should have undertaken: At least one degree in Biology/
+have undertaken Chemistry/ Pharma * Other competencies : Biology Science undergraduates
+Skills: Basic Programming,  , Biology with {Technical) interest in Genomics , Data visualization tools , java script , Python, R
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Computational analysis of Genomic Data
+Description: Skill set required to execute the project : Basic programming skills and understanding of Biology 
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: Artificial Intelligence in Medical Imaging
+Description: Other competencies : Computer Science undergraduates
+Skills: Good  Programming skills , Python, R
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 3
+Title: Medical Data Curation
+Description: Other competencies :- Basic Programming Skills. * Any specific courses that student should :- At least one degree in Biology/ Chemistry/ Pharma. * Skill set required : Understanding and appreciation of Biology
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 4
+Title: Data Integration and Analysis
+Description: Skill set required : Different approaches of extracting data from Biomedical literature Identifying different factors of human health and their characteristics. * Other comp: Basic Programming Skill in R. * Any Specific courses that student should have undertaken :- At least one degree in Biology / Chemistry / Pharma  
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 5
+Title: Visualization of complex multidimensional biologycal data  
+Description: Other Comp: Computer science background  
+Skills: Data visualization tools , java script , Python
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 6
+Title: Machine learning approaches in Ayurgenommics
+Description: Other Comp: Computer Science background. * Skill set Required : Basic Understanding of Biology and genomics along with data integration and computational tools 
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+34,6,5944,Indian Institute Of Remote Sensing - Machine Learning/DSP/AI,Dehradun,Computer Science,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: Remote Sensing, Image analysis, Signal processing.
+Description: Remote Sensing, Image analysis, Signal processing.
+
+Skills:  - 
+Students Required: 20
+Min CGPA: 0
+Max CGPA: 0
+
+"
+31,7,5631,Homi Bhabha Centre For Science Education - IoT - Web Development,Mumbai,IT,A7,Unavailable,"Project: 0
+Title: IoT, web development and application development
+Description: -
+Skills:  - 
+Students Required: 15
+Min CGPA: 0
+Max CGPA: 0
+
+"
+4,8,5512,BISAG-Software Development,Gandhinagar,Electronics,"A3 , A7 , C6",Unavailable,"Project: 0
+Title: Software Development
+Description: -
+Skills:  - 
+Students Required: 0
+Min CGPA: 0
+Max CGPA: 0
+
+"
+3,9,5911,Bhaskaracharya Institute For Space Applications And Geoinformatic - Embedded Systems/IoT,Gandhinagar,Electronics,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: IoT
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+64,10,5953,Semi- conductor laboratoty - VLSI Design/Circuit Design,Mohali,Electronics,A3,Unavailable,"Project: 0
+Title: Projects related to VLSI Design
+Description: Projects related to VLSI Design
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+49,11,5768,National Chemical Laboratory-Computer science,Pune,Govt Research Lab,A7,Unavailable,"Project: 0
+Title: Data analysis and programming
+Description: Computational algorithm of data
+
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+"
+52,12,5920,National Institute of Oceanography -Machine Learning/DSP/AI,Goa,Computer Science,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: 1) Marine Ambient noise signal processing
+Description: -
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: 1) Sound based Classification of underwater Organism
+Description: -
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+"
+6,13,5514,CDAC- Web Deveopment,Pune,IT,Any,Unavailable,"Project: 0
+Title: Interactive web interface for Machine Learning services
+Description: Front end development for a application in React JS . API to fetch image/document data from client .Saving the data into database SQL/NoSQL .API creation in Flask/Django . * outcomes : Web portal for uploading documents .API endpoints which takes doc/image as input and give to ML pipeline . * Other competencies : Pycharm, VS Code *Any specific courses :- Data Structure & Algorithms, Python Programming, Web development, Database management
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+84,14,4565,William O Neil - Data Analytics,Bangalore,Finance and Mgmt,Any,"Status: Active
+Accomodation: Not Applicab",
+35,15,5989,Indira Gandhi Centre for Atomic Research (IGCAR),Kalpakkam,Govt Research Lab,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , B2 , B5",Unavailable,"Project: 0
+Title: Will be updated
+Description: Will be updated
+Skills:  - 
+Students Required: 50
+Min CGPA: 0
+Max CGPA: 0
+
+"
+0,16,5502,Afour tech -Mobile App development,Pune,IT,Any,Unavailable,"Project: 0
+Title: Design and implementation that caters to the given requirements
+Description: â€¢ Design and implementation that caters to the given requirementsâ€¢ Good quality codeâ€¢ Timely deliverablesâ€¢ Timely availability for the meetings/calls. â€¢Proactive communication specific courses Programming of following (Python, Java, C#, Javascript, React, Angular, Mobile App Development), REST API Development, Microservices Architecture
+
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+18,17,5694,COUTURE AI- Machine Learning/Deep Learning,Bangalore,IT,Any,Unavailable,"Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+16,18,5527,Coffee Beans- AI,Bengaluru,IT,"A7 , C6",Unavailable,"Project: 0
+Title: WRU
+Description: AI driven hyper personalization recommendation engine
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+20,19,5935,CSIR-National Aerospace Laboratories - Machine Learning/DSP/AI,Pilani,Electronics,"A3 , A7",Unavailable,"Project: 0
+Title: Deep learning technique based design of low observable structures
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+48,20,5570,"National Centre For Polar And Ocean Research- Data Analytics, Machine Learning",Goa,IT,"B4 , AnyB5",Unavailable,"Project: 0
+Title: Data Analytics using Machine /Deep Learning models for Weather Datasets
+Description: 1) Weather time series/ spatial datasets (Ocean and Atmospheric) analytics using various Machine Learning (ML) and Deep Learning (DL) techniques/ Models. To develop a ML/DL model for forecasting / prediction of weather parameter. Weather Datasets products and model / algorithm.
+
+Skills:  - 
+Students Required: 8
+Min CGPA: 0
+Max CGPA: 0
+
+"
+5,21,3587,Cateina Technologies Pvt. Ltd.,Mumbai,IT,"A7 , C6","Stationary: -
+SubsidizedLunch: -
+StipendForPG: 0
+StartTime:  9:00AM
+Status: Active
+Accomodation: Not Applicable
+FieldDA: -
+FieldTA: -
+Stipend: 0
+ContactDetailsForGirls: 
+CompanyId: 3304
+TillTime:  6:00PM
+OnOffice: -
+Travel: -
+Weekdays: 
+StationFacilitiesId: 9239
+RemarkforAccommodation: Not Applicable
+AccomAddressforGirls: Not Applicable
+ToOffice: -
+Medical: -
+ContactDetailsForBoys: 
+AccomAddressforBoys: Not Applicable
+FacultyId: 0
+StationAddress: Shop No. 7,8, JK Tower, Ground Floor, Phirojshah Nagar Road, Vikhroli (East), Mumbai, Maharashtra 400083
+OtherInfo: Indemnity bond, NDA
+","Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 15
+Min CGPA: 0
+Max CGPA: 0
+
+"
+56,22,5613,North Eastern Space - Compiler Design/Geo Processing/Machine Learning,Umiam,IT,"A3 , A7 , A8 , AA",Unavailable,"Project: 0
+Title: Geoprocessing of EO datasets at scale
+Description: The students will be required to build an architecture to process terabytes EO dataset at scale.The platform should also have its own compiler designed by the students to implement a custom ML algorithm.Basic knowledge about Remote Sensing, Satellite data processing, Report writing.Platform to deploy geo processing algorithm at scale Compiler designed to write own geo processing algorithm.Skills Requirements :Python, Django, Javascript,PostgreSQL.Expected outcomes: Platform to deploy geoprocessing algorithm at scaleCompiler designed to writeown geo processing algorithm
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+57,23,5611,North Eastern Space - Deep Learning/Machine Learning,Umiam,IT,"A3 , A7 , A8 , AA",Unavailable,"Project: 0
+Title: 3D Semantic segmentation of Aerial data
+Description: Development of DL pipline for 3D semantic segmentation task . Web based/Desktop based visualization of results.Web based/Desktop toolSkill sets: Python. Expected outcomes: Webbased/Desktoptool
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+58,24,5609,North Eastern Space - Software Development,Umiam,IT,"A3 , A7 , A8 , AA",Unavailable,"Project: 0
+Title: Large scale Temporal vegetation change analysis
+Description: Development of a temporal vegetation monitoring system for the North Eastern Region of India *Web based/Desktop based visualization of results.Skill sets: Python/JavaScriptExpected outcomes:Web based appfor decisionmakers to assessdamage and aiddecision support
+
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Deep learning tools development for various vision tasks
+Description: Integration of already developed NESAC models to web platform.*Development of new models pipeline for several vision tasks.*Interactive web tools development for end users.*Development of visualization tool.Web based platform and tools.Skill sets: Python, WebTechnologyExpected outcomes: Web basedplatform andtools
+
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+53,25,5615,NIC- Mobile App development,Hyderabad,IT,Any,Unavailable,"Project: 0
+Title: Android Mobile App Development
+Description: Mobile App Development for scanning documents. Advanced Java, Hibernate, Web ServicesSkill Set Req. Good knowledge of SQL
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Android Mobile App Development for Agriculture Dept
+Description: Skills Req. Advanced Java, Hibernate, Web ServicesOther Competenceis: Good knowledge of SQL
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+54,26,5677,NIC- Public Distribution System Operations,Hyderabad,IT,A7,Unavailable,"Project: 0
+Title: ePDS App development
+Description: App development
+
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+55,27,5614,NIC-Web development,Hyderabad,IT,Any,Unavailable,"Project: 0
+Title: Testing Tools
+Description: To develop tool for GIGW compliance Skills Required: Python, Django, JavaOther Competencies: Good knowledge of SQL
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Quiz Portal
+Description: Quiz Portal where graphic quizzes can be created by Admins /Teachers and students can learn. Other Competencies: Good knowledge of SQLSkills Req. Python, Django, Mapbox
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+13,28,4148,Centre for Development of Advanced computing (C-DAC),Pune,Computer Science,Any,"StartTime:  9:00AM
+FieldDA: -
+Weekdays: 
+StationAddress: C-DAC 
+Pune 
+Stipend: 0
+StipendForPG: 0
+ContactDetailsForBoys: 
+OnOffice: -
+ToOffice: -
+Stationary: -
+Accomodation: Not Applicable
+Medical: -
+StationFacilitiesId: 9164
+ContactDetailsForGirls: 
+AccomAddressforGirls: Not Applicable
+FacultyId: 0
+CompanyId: 3858
+TillTime:  6:00PM
+FieldTA: -
+RemarkforAccommodation: Not Applicable
+AccomAddressforBoys: Not Applicable
+Status: Active
+SubsidizedLunch: -
+Travel: -
+OtherInfo: Students will have to sign a declaration (copy enclosed)
+","Project: 0
+Title: Interactive web interface for Machine Learning services
+Description:  Front end development for a application in React JS . API to fetch image/document data from client .Saving the data into database SQL/NoSQL .API creation in Flask/Django .  * outcomes : Web portal for uploading documents .API endpoints which takes doc/image as input and give to ML pipeline . * 
+Other competencies : Pycharm, VS Code 
+*Any specific courses :- Data Structure & Algorithms, Python Programming, Web development, Database management
+Skills: Django , Flask , JavaScript. HTML, CSS , React JS , UI/UX design
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+14,29,1409,Centre for Development of Telemetics (CDot),New delhi,Computer Science,"A3 , AA","Stipend: 0
+TillTime:  5:00PM
+Status: Active
+Accomodation: Not Applicable
+OnOffice: -
+FieldDA: -
+FieldTA: -
+Travel: -
+OtherInfo: -
+RemarkforAccommodation: Not Applicable
+Stationary: -
+SubsidizedLunch: -
+ContactDetailsForBoys: 
+FacultyId: 0
+CompanyId: 1160
+StartTime:  9:00AM
+ToOffice: -
+Medical: -
+Weekdays: 
+StationAddress: 
+StationFacilitiesId: 9240
+StipendForPG: 0
+ContactDetailsForGirls: 
+AccomAddressforBoys: Not Applicable
+AccomAddressforGirls: Not Applicable
+","Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+8,30,5914,CEERI Pilani - Embedded Systems/IoT,Pilani,Electronics,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: &Double;Development of Green Technology  for Waste Management&Double;
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Design of Optical Sources (LEDs) and Detectors for Health Sensor Applications
+Description: -
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: &Double;Smart Controller for Agri Applications  Smart Water Dispenser System &Double;
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 3
+Title: Spatial Soundscape recreation using binaural audio synthesis
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 4
+Title: &Double;Development of Conversion and amplifier Circuits to detect and measure RF Radiation intensity present in the ambiance Development of read-out circuit using Arduino for portable RF Radiation Intensity meter&Double;
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 5
+Title: &Double;Advanced Closed loop Control System to improve battery performance and longevity for electric Tricycle IOT and AI based smart water grid Community usage&Double;
+Description: -
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+11,31,5929,CEERI Pilani - VLSI Design/Circuit Design,Pilani,Electronics,"A3 , A4 , A7 , A8 , AA",Unavailable,"Project: 0
+Title: &Double;Design and Investigation of Piezoelectric Lorentz force Magnetometer Design and Investigation of LTCC Based Micro strip Antenna&Double;
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Development of Flexible capacitive Tactile Sensors for Electronics Skin (E-skin) applications
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: &Double;Design and simulation of thermopile-based IR detector  CMOS compatible pyroelectric Materials for gas sensors &Double;
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 3
+Title: Design of GaN/InGaN blue LED
+Description: -
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 4
+Title: Numerical Analysis of Microfluidic Devices for lab-on ci applications
+Description: -
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 5
+Title: &Double;AR-VR Virtual Labs. - Implementation of RISC-V based Systems on FPGAs &Double;
+Description: -
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 6
+Title: &Double;Development of Conversion and amplifier Circuits to detect and measure RF Radiation intensity present in the ambiance Development of read-out circuit using Arduino for portable RF Radiation Intensity meter&Double;
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+62,32,2663,Regional Remote Sensing Centre,Jodhpur,Computer Science,"A3 , A7 , A8 , AA","RemarkforAccommodation: Not Applicable
+Medical: -
+Weekdays: 
+OtherInfo: -
+StationFacilitiesId: 9146
+AccomAddressforBoys: Not Applicable
+AccomAddressforGirls: Not Applicable
+TillTime:  5:00PM
+Accomodation: Not Applicable
+FieldDA: -
+Stationary: -
+SubsidizedLunch: -
+Stipend: 0
+ContactDetailsForGirls: 
+StartTime:  9:00AM
+Status: Active
+Travel: -
+StipendForPG: 0
+ContactDetailsForBoys: 
+FacultyId: 0
+CompanyId: 2390
+OnOffice: -
+ToOffice: -
+FieldTA: -
+StationAddress: Regional Remote Sensing Centre (RRSC) -West.
+Indian Space Research Organisation
+Dept. of Space, Govt. Of India
+New ISRO Complex, 9 Sector,
+Kuri Bhagtasani Housing Board
+JODHPUR -342 005
+","Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+15,33,3653,Centre for Railway Information Systems,New delhi,Computer Science,Any,"FieldDA: -
+StationAddress: CRIS, Chanakyapuri, New Delhi - 110021
+
+4A Ring Road, 9th Floor, ITPI Building I.P. Estate, New Delhi - 110002
+ContactDetailsForBoys: 
+AccomAddressforGirls: Not Applicable
+FacultyId: 0
+CompanyId: 3370
+SubsidizedLunch: -
+ContactDetailsForGirls: 
+Status: Active
+Accomodation: Not Applicable
+FieldTA: -
+Stationary: -
+Travel: -
+Weekdays: 
+StipendForPG: 0
+AccomAddressforBoys: Not Applicable
+OnOffice: -
+Medical: -
+TillTime:  5:00PM
+ToOffice: -
+OtherInfo: -
+StationFacilitiesId: 9478
+Stipend: 0
+RemarkforAccommodation: Not Applicable
+StartTime:  9:00AM
+","Project: 0
+Title: -
+Description: -
+Skills: AI and ML , Cloud , CS Concepts , Data Analytics , Flutter , HTML 5 , J2EE , NLP
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+43,34,5618,L & T Infotech - Web Development,Mumbai,IT,"A7 , AnyA7 , AnyC6",Unavailable,"Project: 0
+Title: Web development / Java
+Description: The associates are expected to support in an internal portaldevelopment. They will be involved in dev and test of websitecoding and the functionalities. The key skills includeHTML,CSS,JS, JSP & Java
+
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Java Programming language, AngularJS or React, Python
+Description: Good Communication Skills and Programming skills speciallyon UI front end side. Hence BTech with IT or ComputerScience is preferred.
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: Front-End (HTML/CSS/ReactJS)
+Description: Students with some hands-on or knowledge in UI would bebetter. Also with some hands-on else with specific trainingsscheduled can only be utilized
+
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+41,35,5622,L & T Infotech - Data Analytics,Mumbai,IT,"C6 , AnyA7",Unavailable,"Project: 0
+Title: Basic Technology capabilities, Data analysis, Visualization tools like Tableau, Sisense
+Description: Click through prototypes, Market research, Projectdocumentation
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+42,36,5621,L & T Infotech - Machine Learning,Mumbai,IT,"C6 , AnyA7",Unavailable,"Project: 0
+Title: AI/ML, Deep Learning, Kaggle, Python
+Description: Data Engineer with responsibility of determining algorithms,experimenting and building AI model and to orchestrate thedeployment and management of model in PROD
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+40,37,5623,L & T Infotech - Business Intelligence,Mumbai,IT,"C6 , AnyA7",Unavailable,"Project: 0
+Title: BI & Data Analytics
+Description: BI Development - To analyze internal data and build businessdashboards using Power BI
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+75,38,5599,UST Global - Machine Learning,Trivandrum,IT,Any,Unavailable,"Project: 0
+Title: Datascience
+Description: Application of Data Science and Machine Learning techniques to improve production, supply chain, sales, marketing and retail strategies of Fast Moving Consumer Goods (FMCG).
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: AI/ML-
+Description: Analysis on dataset formats, architecture backbones, saved model formats, performance, etc. of available object detection models. Identifying and automating stages like annotation, training, comparison, testing and prediction API deployment.Research and documentation of current state of the art models and methodologies in NLP, Speech and Computer Vision. Hands on task at the end for their experience.
+
+Skills:  - 
+Students Required: 6
+Min CGPA: 0
+Max CGPA: 0
+
+"
+76,39,5599,UST Global - Machine Learning,Trivandrum,IT,Any,Unavailable,"Project: 0
+Title: Datascience
+Description: Application of Data Science and Machine Learning techniques to improve production, supply chain, sales, marketing and retail strategies of Fast Moving Consumer Goods (FMCG).
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: AI/ML-
+Description: Analysis on dataset formats, architecture backbones, saved model formats, performance, etc. of available object detection models. Identifying and automating stages like annotation, training, comparison, testing and prediction API deployment.Research and documentation of current state of the art models and methodologies in NLP, Speech and Computer Vision. Hands on task at the end for their experience.
+
+Skills:  - 
+Students Required: 6
+Min CGPA: 0
+Max CGPA: 0
+
+"
+77,40,5597,UST Global - Research/Blockchain,Trivandrum,IT,Any,Unavailable,"Project: 0
+Title: Blockchain
+Description: Research and documentation of the latest trends in Blockchain and different methodologies used. Experimenting with Blockchain platforms like Ethereum, Hyperledger Fabric, R3 Corda, etc. Building Blockchain use cases.
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+78,41,5958,UST Global - VLSI Design/Circuit Design,Trivandrum,Computer Science,A3,Unavailable,"Project: 0
+Title: Quantum Compting-
+Description: Research on the simulation of noisy quantum logic circuits using density matrix formalism.Implementation with the Qiskit framework.Research on hybrid quantum-classical computation for quantum machine learning using framework. Research on current state of the art models. Using this to design a framework for molecular docking.Research on hybrid quantum-classical computation for quantum machine learning using Pennylane framework. Research on current state of the art models. Using this to design a framework for molecular docking.
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+51,42,5921,National Institute of Oceanography -Embedded Systems/IoT,Goa,Computer Science,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: 1) Mission planner of CBOT on basic QT-5 based GUI.
+Description: 
+-
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: 1) Video image processing from coral reef monitoring Robot (CBOT)
+Description: -
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+"
+44,43,5649,L&T Infotech- Research and study on IIOT,Mumbai,IT,Any,Unavailable,"Project: 0
+Title: Research and study on IIOT
+Description: L&T Infotech- Research
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+17,44,5695,Convergent Technologies (Sequoia Fitness and Sports Technology Pvt Ltd) -Mobile App Development/Data Analytics,Gurgaon,IT,Any,Unavailable,"Project: 0
+Title: Mobile App Development/Data Analytics
+Description: TBDAny specific courses:- Programming in Java/.Net
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+25,45,4724,Elixar Systems - APP Development,New delhi,Computer Science,Any,"Status: Active
+StationAddress: 
+RemarkforAccommodation: Not Applicable
+ContactDetailsForBoys: 
+CompanyId: 4426
+StartTime:  9:00AM
+TillTime:  5:00PM
+StipendForPG: 0
+AccomAddressforBoys: Not Applicable
+ToOffice: -
+FieldDA: -
+FieldTA: -
+StationFacilitiesId: 9209
+Accomodation: Not Applicable
+SubsidizedLunch: -
+Medical: -
+Stationary: -
+Travel: -
+Stipend: 0
+ContactDetailsForGirls: 
+AccomAddressforGirls: Not Applicable
+FacultyId: 0
+OnOffice: -
+Weekdays: 
+OtherInfo: -
+","Project: 0
+Title: Business Development
+Description: Working with BD team to bring 2. * Other competencies: Customer understanding experience, Basic economics understanding. * outcomes : Product development Experience- Market Dynomics- Team Work Basics- Quick Execution Skills
+Skills:  Basic Software knowledge
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+21,46,5936,CSIR-National Aerospace Laboratories - VLSI Design/Circuit Design,Bengaluru,Electronics,"A3 , AA",Unavailable,"Project: 0
+Title: Antenna-radome interaction
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Equivalent circuit modelling of radar absorbing structures
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: Metamaterial based High Performance Antennas for Aerospace Platforms
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+26,47,5523,Greendeck Cliff.ai-Full Stack Development,Indore,IT,"A3 , A7",Unavailable,"Project: 0
+Title: Full-stack application
+Description: Planning and development of features for customer facing as well as internal tools. * outcomes : End-to-end implementation of features on theCliff and Greendeck platform.
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+32,48,4284,i-exceed technology solutions private limited,Bangalore,IT,A7,"StipendForPG: 0
+OnOffice: -
+StationFacilitiesId: 9171
+StartTime:  9:00AM
+Accomodation: Not Applicable
+ToOffice: -
+Medical: -
+Travel: -
+RemarkforAccommodation: Not Applicable
+ContactDetailsForBoys: 
+AccomAddressforGirls: Not Applicable
+TillTime:  5:00PM
+StationAddress: 
+CompanyId: 3990
+Status: Active
+FieldDA: -
+FieldTA: -
+Stipend: 0
+ContactDetailsForGirls: 
+AccomAddressforBoys: Not Applicable
+FacultyId: 0
+Stationary: -
+SubsidizedLunch: -
+Weekdays: 
+OtherInfo: -
+","Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+37,49,5951,Kizora Software Pvt. Ltd - App/AR/VR,Nagpur,Electronics,"A3 , A7",Unavailable,"Project: 0
+Title: Software Development/App Development
+Description: Software Development/App Development
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+9,50,5934,CEERI Pilani - Industrial Automation and Control,Pilani,Electronics,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: &Double;Control of BLDC motor for e-trike Pulse power supply design and its control&Double;
+Description: -
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: &Double;Advanced Closed loop Control System to improve battery performance and longevity for electric Tricycle IOT and AI based smart water grid Community usage&Double;
+Description: -
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+50,51,5922,National Institute of Oceanography - Industrial Automation & Control,Goa,Computer Science,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: 1) Design basis for a broadband acoustic receiver (hydrophone) for underwater applications
+Description: -
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: 1) Design of lights for underwater photography- Intensity control & color
+Description: -
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: 1) Pressure interfacing with Microcontroller.
+Description: -
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+"
+12,52,5937,Central Scientific Instruments Organization - Industrial Automation & Control,Chennai,Electronics,"A3 , A7",Unavailable,"Project: 0
+Title: Projects on Energy management systems
+Description: Projects on Energy management systems
+
+Skills:  - 
+Students Required: 7
+Min CGPA: 0
+Max CGPA: 0
+
+"
+61,53,3590,Race2Cloud Technologies Pvt. Ltd. -  Apps on Zoho Creator,Bangalore,Computer Science,Any,"StipendForPG: 0
+ContactDetailsForGirls: 
+CompanyId: 3307
+StartTime:  9:00AM
+TillTime:  6:00PM
+OnOffice: -
+Weekdays: 
+StationFacilitiesId: 9145
+RemarkforAccommodation: Not Applicable
+ContactDetailsForBoys: 
+FacultyId: 0
+ToOffice: -
+Medical: -
+FieldTA: -
+AccomAddressforGirls: Not Applicable
+Stationary: -
+Travel: -
+OtherInfo: -
+Stipend: 0
+AccomAddressforBoys: Not Applicable
+Status: Active
+Accomodation: Not Applicable
+FieldDA: -
+SubsidizedLunch: -
+StationAddress: 628A, 1st Stage Indira Nagar, Above Canara Bank, Bangalore
+
+Training Venue:
+Race2Cloud Technologies Private Limited 628A, 1st Stage Indira Nagar, Above Canara Bank, Bangalore
+","Project: 0
+Title: Zoho CRM/Creator
+Description: Projects on SaaS and PaaS *Communication skills*Knowledge of SaaS and Paas
+Hands on skills in Zoho Industry relevant projects Presentation skills
+Skills: Databases , Programming background
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+60,54,5576,Race2Cloud Technologies - Software Development,Bangalore,IT,Any,Unavailable,"Project: 0
+Title: Zoho CRM/Creator
+Description: Projects on SaaS and PaaS *Communication skills*Knowledge of SaaS and PaasHands on skills in Zoho Industry relevant projects Presentation skills
+
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+73,56,5584,Telangana e-governance - Software Development,Hyderabad,IT,Any,Unavailable,"Project: 0
+Title: e-Seva services (T-Wallet, Posidex)
+Description: Backend of the interfaces and apps ,Basics of programming ,Completion of internship project in a qualitative manner
+
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+36,57,4255,Kerala Infrastructure and Technogy for Education,Trivandrum,Others,Any,Unavailable,"Project: 0
+Title: 1) Natural Langauge Processing
+Description:  understanding of Python, Javascript ES6,Angular-9 and have knowledge of RASA NLU, spaCy, NLTK, scikit-learn, openCV, pandas, numPy etc are desirable
+Skills:  - 
+Students Required: 6
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: 1) Data Science
+Description: 
+Skills:  - 
+Students Required: 0
+Min CGPA: 0
+Max CGPA: 0
+
+"
+74,58,5712,Urjanet - Data Analytics,Chennai,Finance and Mgmt,Any,Unavailable,"Project: 0
+Title: Data Analyst â€“ Operations Team
+Description: The position involves understanding the domain and process of generating, monitoring and delivering energy data to Customers.Should possess good communication, analytical skills, team interaction and proficiency in using computer systems towards speedy on-boarding of Customers, set-up and initiation of processes as per Customer requirements, delegation of tasks to team members, troubleshooting issues / escalations, verifying and ensuring data accuracy from team, tracking and reporting and customer interactionKNOWLEDGE/SKILLS:A. Good written and verbal communication skill.B. Knowledge in manual testing / inspection / QA is a mustC. Energy domain / billing / financial or other numeric analysis experience desirableD. Good MS-Office (Excel) knowledge is a big plusThe candidates must have knowledge and prior experience using software systems for monitoring / tracking / reporting as well as proficiency in MS Excel (using Pivots, formulae etc.). Prior experience with data analysis in finance / billing / payments / energy domain or working in similar roles (data analyst) is preferred. Candidates who have experience with tracking and reporting using SQL queries (any database) would be an added advantage
+
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+63,59,5601,Sawolabs Technologies - Software Development,Bangalore,IT,Any,Unavailable,"Project: 0
+Title: SDE
+Description: Roles and Responsibilities: Own the development, testing, and maintenance of native SDKs and Unity on different mobileplatforms, their respective OS versions, and devices. Test cross-platform integration and functionality of SDKs. Provide detailed estimates of work and ensure timely delivery of features.Produce and ensure delivery of quality, readable, and well-tested code. Rely on judgment and experience to plan and accomplish goals in a timely manner. Own the elements required to deliver features and results to internal stakeholders. Collaborate with team members on the design and implementation of new functionalities on different platforms. Consult with other team members and implement solutions in-line with the departmentsâ€™ visions. Continuously learn and keep up to date with emerging technologies to evaluate the impact on business and member value.Should have an understanding of:MERN stackAWS EC2Integrating multiple plugins (WooCommerce, Membership plugins, Payment gateways, etc)during theme development and familiarity with WordPress plugin ecosystemMaintain a high-quality codebase for reusability and maintainability.Preferred Qualities: Should be able to document their code.Understanding core functions and working concepts of the website to create a websiteHost and deploy plugins on wp-market / any no code platformHost and deploy websites on different platforms
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+47,60,5566,LogiQLabs-Data analytics,Bangalore,IT,Any,Unavailable,"Project: 0
+Title: Predictive Analytics of eCommerce Dispatches
+Description: 1) To offer predictive analytics to eCommerce Sellers about their orders and shipments
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+46,61,5940,LOGIQ LABS Pvt Ltd - Machine Learning/DSP/AI,Bangalore,Computer Science,"A3 , AA",Unavailable,"Project: 0
+Title: Fraud detection in eCommerce
+Description: To offer fraud detection as a service to ecommerce merchants based on different touchpoints of a customer journeySkill Set Required: Python, AI / ML,Web DevelopmentLearning Outcome: - Develop ML Models- Expose REST APIs
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+68,62,3935,Silver Touch Technologies Ltd,Ahmedabad,Computer Science,Any,"CompanyId: 3651
+StartTime:  9:00AM
+OnOffice: -
+Medical: -
+Stationary: -
+SubsidizedLunch: -
+StationAddress:  2nd Floor, Saffron Tower, Nr. Panchwati Circle, Ambawadi, Ahmedabad – 380006, Gujarat, 
+StipendForPG: 0
+RemarkforAccommodation: Not Applicable
+Status: Active
+Accomodation: Not Applicable
+ToOffice: -
+FieldDA: -
+AccomAddressforBoys: Not Applicable
+TillTime:  5:00PM
+Weekdays: 
+OtherInfo: -
+FieldTA: -
+Travel: -
+StationFacilitiesId: 9279
+Stipend: 0
+ContactDetailsForBoys: 
+ContactDetailsForGirls: 
+AccomAddressforGirls: Not Applicable
+FacultyId: 0
+","Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+66,63,5952,Shalaka Connected Devices LLP - App/AR/VR,Pune,Electronics,"A3 , A7 , A8 , AA",Unavailable,"Project: 0
+Title: Cloud based micro site for Industrial IoT on Shalaka ReMoNet portal
+Description: This is a JavaScript based web applicationusing node.js framework for theIndustrial IoT Sensor Network andcommunication using IoT protocol anddatabaseSkill set required to execute the project (Technical) Programming in JavaScript, Google CloudOther competencies Logical thinking, understandingalgorithms, Office toolsExpected outcomes (in bullet points) ? Cloud based Web applicationdevelopment? Development of Industrialproduct? Internalise developmentprocesses and documentation ofProduct Development
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Cloud based micro site for Industrial IoT on Shalaka ReMoNet portal
+Description: This is a JavaScript based web applicationusing node.js framework for theIndustrial IoT Sensor Network andcommunication using IoT protocol anddatabaseSkill set required to execute the project (Technical) Programming in JavaScript, Google CloudOther competencies Logical thinking, understandingalgorithms, Office toolsExpected outcomes (in bullet points) ? Cloud based Web applicationdevelopment? Development of Industrialproduct? Internalise developmentprocesses and documentation ofProduct Development
+
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+67,64,5924,Shalaka Connected Devices LLP - Embedded Systems/IoT,Pune,Electronics,"A3 , A7 , A8 , AA",Unavailable,"Project: 0
+Title: Industrial Sensor Node
+Description: This is a hardware embedded systemsproject wherein microcontroller basedhardware with various sensors andcommunication Interfaces is developed.The interns are expected to program themicrocontroller in C/C++Skill Req. C(required)/C++ (nice to have)programming languageOther competencies Logical thinking, understandingalgorithms, Office toolsAny specific courses that student should have undertaken: C Programming LanguageExpected outcomes (in bullet points) ? Development of Firmware forEmbedded Systems? Development of Industrialproduct? Internalise developmentprocesses and documentation ofProduct Development
+
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Industrial Machine Vision System
+Description: This is a hardware embedded systemsproject wherein microcontroller basedhardware with various cameras andcommunication Interfaces is developed.The interns are expected to program themicrocontroller in C/C++ on Linux orLinux like OSSkill set required to execute the project (Technical) C/C++ (required) programming languageOther competencies : Development under Linux OS using Linuxbased tools,Logical thinking, understandingalgorithms, Office toolsExpected outcomes (in bullet points):Development of Firmware forEmbedded Systems? Development of Industrialproduct? Internalise developmentprocesses and documentation ofProduct Development
+
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 2
+Title: Android based application for Industrial IoT on Shalaka ReMoNet portal
+Description: This is a Java based Android applicationusing Android SDK for the Industrial IoTSensor Network and communicationusing IoT protocol and databaseSkill set required to execute the project (Technical) Programming in Java for Android,Google CloudOther competencies Logical thinking, understandingalgorithms, Office toolsAny specific courses that student should have undertaken Java Programming for Android withAndroid Studio and SDKExpected outcomes (in bullet points) ? Android based applicationdevelopment? Development of Industrialproduct? Internalise developmentprocesses and documentation ofProduct Development
+
+Skills:  - 
+Students Required: 1
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 3
+Title: Android based application for Industrial IoT on Shalaka ReMoNet portal
+Description: This is a Java based Android applicationusing Android SDK for the Industrial IoTSensor Network and communicationusing IoT protocol and databaseSkill set required to execute the project (Technical) Programming in Java for Android,Google CloudOther competencies Logical thinking, understandingalgorithms, Office toolsAny specific courses that student should have undertaken Java Programming for Android withAndroid Studio and SDKExpected outcomes (in bullet points) ? Android based applicationdevelopment? Development of Industrialproduct? Internalise developmentprocesses and documentation ofProduct Development
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+38,65,5624,Kotak Education Foundation Tech - Web Development,Mumbai,IT,Any,Unavailable,"Project: 0
+Title: Creating digitized content with graphics and original videos
+Description: Other competencies: video making, Creative writing, Good Spoken English skills
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Creating APPS/ Learning software
+Description: Other competencies : Creative writing, Good Spoken English skills . * Any specific courses that student should have undertaken : Coding, Creating apps, Using various softwares
+
+Skills:  - 
+Students Required: 15
+Min CGPA: 0
+Max CGPA: 0
+
+"
+39,66,5605,Kotak education- dashboard development,Mumbai,Finance and Mgmt,Any,Unavailable,"Project: 0
+Title: Developing a Dashboard for program/projects
+Description: Other competencies : Creative writing, Good Spoken English skill . * Any specific courses that student should have undertaken : Data Analytics, Data Management
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+2,67,5506,Agnext tech-Software Development,Sahibzada Ajit Singh Nagar,IT,Any,Unavailable,"Project: 0
+Title: Qualix Software Suite
+Description: A platform for B2B customer to visualizetheir quality at tea gardens, warehousesand factory gates for variouscommodities. * Other soft skill : Positive attitude. * Expected learning : Working with Real time B2B enterpriseapplication while having exposure toapplication architecture & processes-Team work, corporate culture,communication skills, methodologies. *Any specific courses that student should have taken :- Preferably Core Java/Android
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+1,68,5504,Agnext tech- AL/ML,Sahibzada Ajit Singh Nagar,IT,Any,Unavailable,"Project: 0
+Title: SpecX
+Description: Rapid quality assessment of agricultural commodities by the use of NIR and AI/ML.Good Communication Skill, Interpersonal Skill .Signal Processing through AI/ML. .* outcomes : Good Communication Skill, Interpersonal Skil.* Any specific courses that student should have undertaken :- Relevant to the technical skillsmentioned
+
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+24,69,5648,E connect - Non Development Projects,Udaipur,IT,Any,Unavailable,"Project: 0
+Title: Other then development project
+Description: -
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+65,70,5925,SenRa Tech Pvt Ltd - Embedded Systems/IoT,Delhi,Electronics,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: Projects related to IoT
+Description: Projects related to IoT
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
+23,71,5979,Domtech Robotics and Automation - VLSI design/Circuit Design,Nashik,Electronics,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: Water dispensing hubs
+Description: To develop water bottle refilling stations to eliminate plastic. We aim at making an ATM sized kiosk with smart technology for refilling water bottles. We also aim at making onsite filtration plant.
+
+Skills:  - 
+Students Required: 6
+Min CGPA: 0
+Max CGPA: 0
+
+"
+22,72,5978,Domtech Robotics and Automation - Embedded Systems/IoT,Nashik,Electronics,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: Farm land monitoring systems
+Description: To develop a monitoring system for farm land which gives parameters to various other IOT based machines and analyze it. ( Using drone mapping & sensors)
+
+Skills:  - 
+Students Required: 6
+Min CGPA: 0
+Max CGPA: 0
+
+"
+30,74,5545,Hexagon Capability Center India Pvt. Ltd - Machine Learning,Hyderabad,IT,Any,Unavailable,"Project: 0
+Title: 1) AI/ML Use Cases
+Description: 1) Project name: Prediction of hardware failures using operational dataTechnologies: Exploratory data analysis, time series analysis, regression modeling, classification Coding requirements: Clean, well-structured, object orientated, and well documented Python code is expected. Several modules will be required. A demonstrator showing validated machine learning models in action is expected at the end.Required skills:*Coding proficiency in Python*Experience with machine learning concepts, preferably in time series modeling/forecasting* Knowledge of machine learning libraries (scikit-learn, tensorflow)* Presentation skills to showcase the results in a crisp and intelligible mannerAI/ML specific tasks:* Data exploration and visualization* Supervised machine learning*Unsupervised machine learning*Time series forecasting2) Quality Prediction in a Mining ProcessProject name: Prediction of impurity concentrations in the iron ore of a flotation plantTechnologies: Exploratory data analysis, regression models, time series analysis, sequence modelingCoding requirements: Clean, well-structured, object-oriented, and well-documented Python code is expected. Several modules will be required. A demonstrator showing validated machine learning models in action is expected at the end.Required skills:* Coding proficiency in Python* Experience with machine learning concepts (training, validation)*Knowledge of machine learning libraries (scikit-learn, tensorflow)*Presentation skills to showcase the results in a crisp and intelligible mannerAI/ML specific tasks:* Supervised machine learning*Sequence modeling*Time series forecasting3) Motion State DetectionProject name: Motion state classification for handheld wearables.Technologies: Time series analysis, signal processing and filtering, machine and deep learning, classification algorithmsCoding requirements: Clean, well-structured, object orientated, and well documented Python code is expected. Several modules will be required. Starting from preprocessing and cleaning the data to the AI/ML specific modules.Required skills:*Student in Electrical Engineering, Mechanical Engineering, Computer Science, Physics or similar with background in signal processing or robotics, ideally with experience in working on IMU data* Solid Python programming skills (or other languages such as C/C++ or Matlab)*Basic knowledge of ML concepts and libraries, preferable in DLAI/ML specific tasks:*Data exploration and analysis*Supervised and semi-supervised machine learning* Time-series and signal processing* Windowing and aggregationAny specific courses that student shouldhave undertaken- AI/ML â€“ Specialization or a Subject in theircourse.
+
+Skills:  - 
+Students Required: 3
+Min CGPA: 0
+Max CGPA: 0
+
+"
+33,75,5630,IDS Infotech Ltd - Data Science,Mohali,IT,Any,Unavailable,"Project: 0
+Title: -
+Description: -
+Skills:  - 
+Students Required: 10
+Min CGPA: 0
+Max CGPA: 0
+
+"
+45,76,5941,LightSpeed AI Labs Pvt Ltd - Machine Learning/DSP/AI,Hyderabad,Computer Science,"A3 , A8 , AA",Unavailable,"Project: 0
+Title: Machine learning, computer vision algorithm on edge computing system
+Description: 1. Machine learning, computer vision algorithm on edge computing system2. Design and evaluation of custom, proprietary hardware module of LightSpeedAI
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+59,77,5608,"Persistent Systems Ltd.,Verna - Machine Learning",Goa,IT,Any,Unavailable,"Project: 0
+Title: Federated Learning and Privacy preserving ML
+Description: -
+Skills:  - 
+Students Required: 7
+Min CGPA: 0
+Max CGPA: 0
+
+"
+72,78,5427,Synchrony International Services Pvt Ltd,Hyderabad,Computer Science,"A3 , A7 , A8 , AA , C6","StipendForPG: 0
+OtherInfo: student only from HYDERABAD
+StationFacilitiesId: 9405
+AccomAddressforBoys: Not Applicable
+AccomAddressforGirls: Not Applicable
+Accomodation: Not Applicable
+OnOffice: -
+Weekdays: 
+Stationary: -
+StationAddress: Knowledge City, Salarpuriya Satwa, Silpa Gram Craft Village, HITEC City, Hyderabad, Telangana 500081
+Stipend: 0
+ContactDetailsForGirls: 
+FacultyId: 0
+StartTime:  9:00AM
+ToOffice: -
+FieldTA: -
+Medical: -
+SubsidizedLunch: -
+RemarkforAccommodation: Not Applicable
+ContactDetailsForBoys: 
+CompanyId: 5128
+TillTime:  5:00PM
+Status: Active
+FieldDA: -
+Travel: -
+","Project: 0
+Title: Bridget.Priya@syf.com
+Description: 1) Evaluation of various tools used in the data science platforms for analytics. Data Visualization. Students will understand the technologies used in data science/analytics in an enterprise environment. *Any specific courses that student should have undertaken :- Programming related courses
+Skills: Coding , Good  Programming skills , Java/Python
+Students Required: 6
+Min CGPA: 0
+Max CGPA: 0
+
+"
+71,79,5581,Synchrony International - Data Analytics,Hyderabad,IT,"A3 , A7 , A8 , AA , C6",Unavailable,"Project: 0
+Title: Bridget.Priya@syf.com
+Description: 1) Evaluation of various tools used in the data science platforms for analytics. Data Visualization. Students will understand the technologies used in data science/analytics in an enterprise environment. *Any specific courses that student should have undertaken :- Programming related courses
+
+Skills:  - 
+Students Required: 6
+Min CGPA: 0
+Max CGPA: 0
+
+"
+69,82,5703,STEM4ALL-Mathematics,Usa,Finance and Mgmt,Any,Unavailable,"Project: 0
+Title: STEM Camps for K12 students
+Description: 1) The project focuses on design andexecution of STEM summer camps forK12 students in the US. There are avariety of camps to educate studentsin the areas of Python, ArtificialIntelligence, Projects using RaspberryPi, IOT using Arduino, Game Designw/Unity, AR w/ Unity, Google AR/VR, 3D Animation (Blender/Autodesk), 3D Modeling (Blender/Fusion 360), Amazon Coding usingAlexa skills, AI apps using IBMWatson, Game Design on MinecraftetcThe interns will be responsible forcreating engaging course design forthe respective camps and gainhands-on experience of conductingLIVE virtual camps with the studentsin the US via Zoom.Students will also develop STEM kitsfor a pilot launch.Communication SkillsPresentation SkillsAbility to engage students in a virtualclass. 1. Design the Course forrespective camps2. Successfully conduct the campwith students3. Create STEM kits for pilotlaunch
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+80,83,5594,VComply - Mobile Applications,Kolkata,IT,Any,Unavailable,"Project: 0
+Title: IOS App Development
+Description: Develop an IOS app for basic functionality support.* outcomes: The POC of the project should be completed by the end of the project.
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Android App Development
+Description: Develop an android app for basic functionality support.* outcomes : The POC of the project should be completed by the end of the project.
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+81,84,5594,VComply - Mobile Applications,Kolkata,IT,Any,Unavailable,"Project: 0
+Title: IOS App Development
+Description: Develop an IOS app for basic functionality support.* outcomes: The POC of the project should be completed by the end of the project.
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Android App Development
+Description: Develop an android app for basic functionality support.* outcomes : The POC of the project should be completed by the end of the project.
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+82,85,5591,VComply - Software Development,Kolkata,IT,Any,Unavailable,"Project: 0
+Title: Slack Integration along with slack bot for Vcomply
+Description: Easily automate routine actions and communication Understanding of API and Java script framework
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+Project: 1
+Title: Google drive and one drive integration
+Description: Easily automate routine actions and notification Understanding of APIs and Java script framework
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+79,86,5595,VComply - Data Analytics,Kolkata,IT,Any,Unavailable,"Project: 0
+Title: Data analysis and Modernization of product features.
+Description: Integrate key product functionality to enhance product value. Work closely with rest of development team during the project as an employee.* outcomes: The POC of the project should be completed by the end of the project.
+
+Skills:  - 
+Students Required: 5
+Min CGPA: 0
+Max CGPA: 0
+
+"
+83,87,5552,VoiceQube - Software Development,Bangalore,IT,A7,Unavailable,"Project: 0
+Title: StoryQube (https://www.storyqube.com/)
+Description: There will be a total of 20 immersive stories and games projects. The groups will be mixed based on their skill set with at least one computer science intern in each project team. The nature of work involves coding for Alexa, Google home devices. This will be in node.js / python. The work also involves creative writing, conversation AI design, and deployment. The projects would be creating Choose your own adventure kind of stories that involve Alexa or any other voice enabled device. The stories will be hosted on Storyqube which is like the Netflix for voice devices.Students will have the following outcomes- Learn NLU (Natural Language understanding)- Ability to create Alexa Skills, Google actions- Conversation AI design and VUI design (Gateway to HCI)- Node.js, Mongodb, devops- Creative writing for immersive stories and games- Work culture in a fast paced startup- Satisfaction in creating a 0 to 1 product that involves creativity and technology
+
+Skills:  - 
+Students Required: 50
+Min CGPA: 0
+Max CGPA: 0
+
+"
+28,88,5539,Habbit - Web Development,Bangalore,IT,A7,Unavailable,"Project: 0
+Title: Web and App Development
+Description: As a Web/App Developer, youâ€™ll be part of a highly collaborative developer team,deploying features at a fast-paced rate. Youâ€™ll be working with the latest tools and enhancements in the web/app developmentfield. (React Native + Django) Youâ€™ll be expected to take ownership and responsibility of key features and areaswhich will translate into a very fruitful learning experience.Expectations:- You&apos;re experienced working with React Native and/or Django, and are ready to build aproduct at scale.Youâ€™re ready to work with an existing code base, but you can pick up new languages asneeded.You understand industry standards in architecture, code quality, testing and technicaldocumentation. You&apos;re a natural collaborator â€“ you work seamlessly within and between teams.You&apos;re self sufficient and motivated by full ownership of your work.
+
+Skills:  - 
+Students Required: 4
+Min CGPA: 0
+Max CGPA: 0
+
+"
+27,89,5537,Habbit - Data Analytics,Bangalore,IT,A7,Unavailable,"Project: 0
+Title: Data Science
+Description: Data and analytics: You will answer the questions around our product, content, andcommunity. What content drives the most engagement and retention? How do wecluster and segment our users to deliver a personalized experience? What features helpus optimize for retention and growth?? Business intelligence: The day-to-day tracking of our core operations. Every weekyouâ€™ll lead the conversation about what numbers are up or down and why, and keep thedepartmental leads focused on the most important metrics and KPIs.Expectations:-Skilled with writing Python for Data Analytics? Other tools and techniques for analytics
+
+Skills:  - 
+Students Required: 2
+Min CGPA: 0
+Max CGPA: 0
+
+"
